@@ -5,6 +5,7 @@
 - UseState Hook
 - UseEffect Hook
 - ReactNative concepts
+- Using 3rd party APIs
 - Mobile development
 - Devinding app into Componets
 - Stack Navigator 
